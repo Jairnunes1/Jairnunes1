@@ -1,26 +1,22 @@
 
-  ## Olá eu sou o Jair Nunes! 🖐️
+ 
 
-  ### Contatos: 📞
-  [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jair-nunes-99ab871bb/)
-  [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:jairnnf@gmail.com>)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-  ![Jair Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=Jairnunes1&show_icons=true&theme=dracula)
+<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A0EF7&width=435&lines=Ol%C3%A1+pessoal+da+Tech!+" alt="Typing SVG" /></a> </h1>
 
+<br>
+<p>Eu sou o Jair👋</p>
 
-  ### Tecnologias que mais utilizo :
-  <div style="display: inline_block"></br>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </div>
-  </br>
+<p>Desenvolvedor formando em Análise e Desenvolvimento de Sistemas. Afeiçoado por tecnologia e por resolver problemas complexos através do código, tenho experiência apenas em projetos pessoais. Fique a vontade para olhar😉.
+<br>
 
-  #### Estou aprendendo também um pouco sobre as tecnologias e ferramentas:
-  <div style="display: inline_block"></br>
-  <img aling="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img aling="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  </div>
+💡 Desenvolvo aplicações web, aprendendo boas práticas de código e Clean Code.
+<br>
+<p>Principais tecnologias que utilizo:</p>
+<br>
 
-  </br>
-  Sou completamente apaixonado por tecnologias e sempre que possível estou pesquisando sobre algo
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
